@@ -7,6 +7,7 @@ import { ProductModule } from './product/product.module';
 import { Category } from './category/entities/category.entity';
 import { Brand } from './brand/entities/brand.entity';
 import { Product } from './product/entities/product.entity';
+import { HealthController } from './health/health.controller';
 
 @Module({
   imports: [
@@ -32,6 +33,7 @@ import { Product } from './product/entities/product.entity';
     BrandModule,
     ProductModule,
   ],
+  controllers: [HealthController],
 })
 export class AppModule {}
 
