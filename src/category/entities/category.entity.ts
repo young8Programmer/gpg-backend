@@ -6,6 +6,7 @@ import {
 // real-time notifications implementatsiya qilindi
 // environment variables sozlandi
 // build konfiguratsiyasi sozlandi
+// code comments qo'shildi
   PrimaryGeneratedColumn,
 // kod uslubini yaxshilash
   OneToMany,
