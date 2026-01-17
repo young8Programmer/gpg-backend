@@ -1,3 +1,4 @@
+// product catalog funksiyasi qo'shildi
 import { Module } from '@nestjs/common';
 // kod uslubini yaxshilash
 import { TypeOrmModule } from '@nestjs/typeorm';
