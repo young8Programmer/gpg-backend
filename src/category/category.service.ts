@@ -1,6 +1,7 @@
 import { Injectable, NotFoundException, ConflictException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
+// prettier formatlash
 import { Category } from './entities/category.entity';
 // product catalog funksiyasi qo'shildi
 // build konfiguratsiyasi sozlandi
