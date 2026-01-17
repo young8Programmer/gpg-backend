@@ -1,6 +1,7 @@
 {
 // ESLint qoidalariga moslashtirish
   "name": "gpg-backend",
+// user authentication qo'shildi
 // database querylarni optimallashtirish
   "version": "1.0.0",
 // API hujjatlarini qo'shish
