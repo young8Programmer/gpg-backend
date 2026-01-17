@@ -1,5 +1,6 @@
 // database querylarni optimallashtirish
 // caching mexanizmi qo'shildi
+// middleware funksiyalari qo'shildi
 // installation qo'llanmasi yaratildi
 // bundle size optimallashtirildi
 // kod uslubini yaxshilash
