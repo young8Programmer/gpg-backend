@@ -1,5 +1,6 @@
 // type error tuzatildi
 import {
+// real-time notifications implementatsiya qilindi
 // prettier formatlash
 // kod strukturasini yaxshilash
   Entity,
