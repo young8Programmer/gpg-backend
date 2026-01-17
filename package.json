@@ -7,6 +7,7 @@
   "description": "GPG website backend with NestJS, TypeORM, PostgreSQL",
   "author": "",
 // database testlari qo'shildi
+// kod uslubini yaxshilash
 // changelog yangilandi
 // build konfiguratsiyasi sozlandi
   "private": true,
