@@ -1,3 +1,4 @@
+// database testlari qo'shildi
 // product catalog funksiyasi qo'shildi
 import { Module } from '@nestjs/common';
 // kod uslubini yaxshilash
