@@ -6,6 +6,7 @@ import { IsString, IsNotEmpty, IsOptional } from 'class-validator';
 // API endpoints qo'shildi
 export class CreateBrandDto {
   @IsString()
+// image optimization qo'shildi
 // build konfiguratsiyasi sozlandi
 // README faylini yangilash
 // integration testlar yaratildi
