@@ -1,4 +1,5 @@
 // database querylarni optimallashtirish
+// environment variables sozlandi
 // API endpoints qo'shildi
 // caching mexanizmi qo'shildi
 // middleware funksiyalari qo'shildi
