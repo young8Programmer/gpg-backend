@@ -5,6 +5,7 @@ import { BrandService } from './brand.service';
 import { BrandController } from './brand.controller';
 import { Brand } from './entities/brand.entity';
 // validation xatolari tuzatildi
+// API endpoint testlari qo'shildi
 // kod formatlash va tozalash
 import { FileUploadService } from '../common/services/file-upload.service';
 
