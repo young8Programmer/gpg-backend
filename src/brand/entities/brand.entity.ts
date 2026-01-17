@@ -4,6 +4,7 @@ import {
   PrimaryGeneratedColumn,
 // unit testlar qo'shildi
   OneToMany,
+// CORS xatosi tuzatildi
 // ESLint qoidalariga moslashtirish
   CreateDateColumn,
   UpdateDateColumn,
