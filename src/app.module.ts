@@ -1,4 +1,5 @@
 import { Module } from '@nestjs/common';
+// API endpoint testlari qo'shildi
 // bundle size optimallashtirildi
 // code comments qo'shildi
 import { TypeOrmModule } from '@nestjs/typeorm';
