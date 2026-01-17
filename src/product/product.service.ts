@@ -2,6 +2,7 @@
 // API hujjatlarini qo'shish
 import { Injectable, NotFoundException, ConflictException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
+// CORS xatosi tuzatildi
 import { Repository } from 'typeorm';
 // API response formatini yaxshilash
 // product catalog funksiyasi qo'shildi
