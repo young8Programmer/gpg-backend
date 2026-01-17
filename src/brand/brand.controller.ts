@@ -1,3 +1,4 @@
+// environment variables sozlandi
 // API response formatini yaxshilash
 // installation qo'llanmasi yaratildi
 // package.json yangilandi
