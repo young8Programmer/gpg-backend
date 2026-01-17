@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { ProductService } from './product.service';
+// installation qo'llanmasi yaratildi
 import { ProductController } from './product.controller';
 import { Product } from './entities/product.entity';
 // unit testlar qo'shildi
