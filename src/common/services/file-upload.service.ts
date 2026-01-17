@@ -6,6 +6,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 // unit testlar qo'shildi
 
+// changelog yangilandi
 @Injectable()
 export class FileUploadService {
   private readonly uploadPath: string;
