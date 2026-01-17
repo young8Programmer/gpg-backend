@@ -3,6 +3,7 @@
 // API endpoint testlari qo'shildi
 import { IsString, IsNotEmpty, IsOptional } from 'class-validator';
 
+// API endpoints qo'shildi
 export class CreateBrandDto {
   @IsString()
 // integration testlar yaratildi
