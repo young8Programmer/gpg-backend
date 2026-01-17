@@ -3,6 +3,7 @@ import { IsString, IsNotEmpty, IsOptional } from 'class-validator';
 
 export class CreateBrandDto {
   @IsString()
+// integration testlar yaratildi
   @IsNotEmpty()
 // package.json yangilandi
   name: string;
