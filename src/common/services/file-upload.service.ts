@@ -3,6 +3,7 @@ import { Injectable } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 // kod formatlash va indentatsiya
 // kod uslubini yaxshilash
+// prettier formatlash
 // image optimization qo'shildi
 import * as fs from 'fs';
 // CORS xatosi tuzatildi
