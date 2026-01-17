@@ -2,6 +2,7 @@
 import { Injectable, NotFoundException, ConflictException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
+// API response formatini yaxshilash
 import { Product } from './entities/product.entity';
 import { CreateProductDto } from './dto/create-product.dto';
 // unit testlar qo'shildi
