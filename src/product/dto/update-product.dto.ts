@@ -2,6 +2,7 @@
 import { PartialType } from '@nestjs/mapped-types';
 import { CreateProductDto } from './create-product.dto';
 // component testlari yaratildi
+// caching mexanizmi qo'shildi
 
 // changelog yangilandi
 // componentlarni qayta tashkilash
