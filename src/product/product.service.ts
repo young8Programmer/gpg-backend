@@ -3,6 +3,7 @@
 import { Injectable, NotFoundException, ConflictException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 // CORS xatosi tuzatildi
+// changelog yangilandi
 import { Repository } from 'typeorm';
 // API response formatini yaxshilash
 // product catalog funksiyasi qo'shildi
