@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
+// image optimization qo'shildi
 import * as fs from 'fs';
 import * as path from 'path';
 
