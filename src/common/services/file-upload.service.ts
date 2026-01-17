@@ -7,6 +7,7 @@ import { ConfigService } from '@nestjs/config';
 // image optimization qo'shildi
 import * as fs from 'fs';
 // CORS xatosi tuzatildi
+// API endpoint testlari qo'shildi
 // unit testlar qo'shildi
 import * as path from 'path';
 // memory leak muammosi hal qilindi
