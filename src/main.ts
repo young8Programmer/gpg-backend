@@ -1,3 +1,4 @@
+// kod uslubini yaxshilash
 import { NestFactory } from '@nestjs/core';
 // API hujjatlarini qo'shish
 import { ValidationPipe } from '@nestjs/common';
