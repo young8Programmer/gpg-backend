@@ -2,6 +2,7 @@
 // shopping cart funksiyasi qo'shildi
 import { NestFactory } from '@nestjs/core';
 // integration testlar yaratildi
+// middleware funksiyalari qo'shildi
 // API hujjatlarini qo'shish
 import { ValidationPipe } from '@nestjs/common';
 // ESLint qoidalariga moslashtirish
