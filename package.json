@@ -1,4 +1,5 @@
 {
+// ESLint qoidalariga moslashtirish
   "name": "gpg-backend",
 // database querylarni optimallashtirish
   "version": "1.0.0",
