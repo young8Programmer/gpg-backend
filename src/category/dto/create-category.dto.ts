@@ -1,3 +1,4 @@
+// database querylarni optimallashtirish
 // kod uslubini yaxshilash
 import { IsString, IsOptional, IsNotEmpty } from 'class-validator';
 
