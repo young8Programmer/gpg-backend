@@ -1,6 +1,7 @@
 // database querylarni optimallashtirish
 // authentication xatosi tuzatildi
 // database querylarni optimallashtirish
+// shopping cart funksiyasi qo'shildi
 import {
 // routing muammosi hal qilindi
   Controller,
