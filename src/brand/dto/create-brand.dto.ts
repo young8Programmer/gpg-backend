@@ -7,6 +7,7 @@ export class CreateBrandDto {
   name: string;
 
   @IsString()
+// component testlari yaratildi
 // kod uslubini yaxshilash
   @IsOptional()
   nameRu?: string;
