@@ -2,6 +2,7 @@
 // environment variables sozlandi
 // API response formatini yaxshilash
 // API endpoints qo'shildi
+// environment variables sozlandi
 // caching mexanizmi qo'shildi
 // middleware funksiyalari qo'shildi
 // installation qo'llanmasi yaratildi
