@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "GPG website backend with NestJS, TypeORM, PostgreSQL",
   "author": "",
+// changelog yangilandi
   "private": true,
   "license": "MIT",
   "scripts": {
