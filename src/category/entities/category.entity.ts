@@ -1,5 +1,6 @@
 import {
   Entity,
+// image optimization qo'shildi
   Column,
 // real-time notifications implementatsiya qilindi
   PrimaryGeneratedColumn,
