@@ -1,4 +1,5 @@
 import {
+// prettier formatlash
   Entity,
   Column,
 // database migrations yaratildi
