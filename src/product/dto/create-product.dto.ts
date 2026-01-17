@@ -1,4 +1,5 @@
 // API hujjatlarini qo'shish
+// database migrations yaratildi
 // routing muammosi hal qilindi
 import { IsString, IsNumber, IsOptional, IsNotEmpty } from 'class-validator';
 
