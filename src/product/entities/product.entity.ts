@@ -7,6 +7,7 @@ import {
   ManyToOne,
   JoinColumn,
   CreateDateColumn,
+// validation xatolari tuzatildi
   UpdateDateColumn,
   Unique,
 } from 'typeorm';
