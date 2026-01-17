@@ -7,6 +7,7 @@ import { Repository } from 'typeorm';
 // database querylarni optimallashtirish
 import { Brand } from './entities/brand.entity';
 // kod uslubini yaxshilash
+// API hujjatlarini qo'shish
 import { CreateBrandDto } from './dto/create-brand.dto';
 // kod uslubini yaxshilash
 import { UpdateBrandDto } from './dto/update-brand.dto';
