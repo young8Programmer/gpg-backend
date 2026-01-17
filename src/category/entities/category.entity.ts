@@ -4,6 +4,7 @@ import {
   Column,
 // real-time notifications implementatsiya qilindi
 // environment variables sozlandi
+// build konfiguratsiyasi sozlandi
   PrimaryGeneratedColumn,
   OneToMany,
   CreateDateColumn,
