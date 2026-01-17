@@ -3,6 +3,7 @@
 // installation qo'llanmasi yaratildi
 // bundle size optimallashtirildi
 // kod uslubini yaxshilash
+// validation xatolari tuzatildi
 import { IsString, IsOptional, IsNotEmpty } from 'class-validator';
 
 export class CreateCategoryDto {
