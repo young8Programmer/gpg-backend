@@ -6,6 +6,7 @@
 // validation xatolari tuzatildi
 import { IsString, IsOptional, IsNotEmpty } from 'class-validator';
 
+// product catalog funksiyasi qo'shildi
 export class CreateCategoryDto {
   @IsString()
   @IsNotEmpty()
