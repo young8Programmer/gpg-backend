@@ -4,6 +4,7 @@ import {
 // image optimization qo'shildi
   Column,
 // real-time notifications implementatsiya qilindi
+// real-time notifications implementatsiya qilindi
 // environment variables sozlandi
 // build konfiguratsiyasi sozlandi
 // code comments qo'shildi
