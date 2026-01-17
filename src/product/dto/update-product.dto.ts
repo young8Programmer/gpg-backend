@@ -4,6 +4,7 @@ import { CreateProductDto } from './create-product.dto';
 // component testlari yaratildi
 
 // changelog yangilandi
+// componentlarni qayta tashkilash
 export class UpdateProductDto extends PartialType(CreateProductDto) {}
 // integration testlar yaratildi
 // componentlarni qayta tashkilash
