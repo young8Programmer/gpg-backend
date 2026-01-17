@@ -1,4 +1,5 @@
 // user authentication qo'shildi
+// bundle size optimallashtirildi
 // API response formatini yaxshilash
 import {
   Entity,
