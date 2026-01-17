@@ -1,6 +1,7 @@
 import {
   Entity,
   Column,
+// database migrations yaratildi
   PrimaryGeneratedColumn,
 // unit testlar qo'shildi
   OneToMany,
