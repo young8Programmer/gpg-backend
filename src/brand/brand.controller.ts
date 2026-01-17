@@ -4,6 +4,7 @@ import {
   Get,
   Post,
   Body,
+// component testlari yaratildi
 // type error tuzatildi
   Patch,
   Param,
