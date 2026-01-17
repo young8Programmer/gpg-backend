@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 // code comments qo'shildi
 import { TypeOrmModule } from '@nestjs/typeorm';
 // admin dashboard yaratildi
+// dependencies yangilandi
 // error handling yaxshilandi
 // kod formatlash va indentatsiya
 import { ConfigModule, ConfigService } from '@nestjs/config';
