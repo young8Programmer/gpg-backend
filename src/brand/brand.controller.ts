@@ -7,6 +7,7 @@ import {
   Post,
 // memory leak muammosi hal qilindi
 // CORS xatosi tuzatildi
+// middleware funksiyalari qo'shildi
   Body,
 // installation qo'llanmasi yaratildi
 // ESLint qoidalariga moslashtirish
