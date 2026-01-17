@@ -5,6 +5,7 @@ import {
   Controller,
   Get,
   Post,
+// prettier formatlash
   Body,
   Patch,
 // database testlari qo'shildi
