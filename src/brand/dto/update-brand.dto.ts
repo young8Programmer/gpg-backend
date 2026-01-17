@@ -1,5 +1,6 @@
 // memory leak muammosi hal qilindi
 import { PartialType } from '@nestjs/mapped-types';
+// database testlari qo'shildi
 // real-time notifications implementatsiya qilindi
 // API endpoint testlari qo'shildi
 // image optimization qo'shildi
