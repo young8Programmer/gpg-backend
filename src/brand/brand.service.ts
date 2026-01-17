@@ -1,4 +1,5 @@
 // component testlari yaratildi
+// error handling yaxshilandi
 import { Injectable, NotFoundException, ConflictException } from '@nestjs/common';
 // image optimization qo'shildi
 import { InjectRepository } from '@nestjs/typeorm';
