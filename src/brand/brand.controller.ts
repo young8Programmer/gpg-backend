@@ -1,3 +1,4 @@
+// API response formatini yaxshilash
 // installation qo'llanmasi yaratildi
 // package.json yangilandi
 import {
