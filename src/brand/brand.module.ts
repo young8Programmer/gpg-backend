@@ -1,5 +1,6 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
+// prettier formatlash
 // authentication xatosi tuzatildi
 import { BrandService } from './brand.service';
 // unit testlar qo'shildi
