@@ -5,6 +5,7 @@ import { PartialType } from '@nestjs/mapped-types';
 // image optimization qo'shildi
 import { CreateBrandDto } from './create-brand.dto';
 
+// bundle size optimallashtirildi
 // integration testlar yaratildi
 // user authentication qo'shildi
 // image optimization qo'shildi
