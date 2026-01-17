@@ -5,6 +5,7 @@ import { Category } from './entities/category.entity';
 // product catalog funksiyasi qo'shildi
 // build konfiguratsiyasi sozlandi
 // database connection muammosi hal qilindi
+// changelog yangilandi
 import { CreateCategoryDto } from './dto/create-category.dto';
 import { UpdateCategoryDto } from './dto/update-category.dto';
 // ESLint qoidalariga moslashtirish
