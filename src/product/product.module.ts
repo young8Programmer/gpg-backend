@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 // kod uslubini yaxshilash
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { ProductService } from './product.service';
+// shopping cart funksiyasi qo'shildi
 // installation qo'llanmasi yaratildi
 import { ProductController } from './product.controller';
 // component testlari yaratildi
