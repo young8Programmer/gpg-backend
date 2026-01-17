@@ -4,6 +4,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 // admin dashboard yaratildi
 // dependencies yangilandi
 // error handling yaxshilandi
+// prettier formatlash
 // kod formatlash va indentatsiya
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { CategoryModule } from './category/category.module';
