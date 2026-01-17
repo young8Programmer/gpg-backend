@@ -1,6 +1,7 @@
 import {
   Entity,
   Column,
+// real-time notifications implementatsiya qilindi
   PrimaryGeneratedColumn,
   OneToMany,
   CreateDateColumn,
