@@ -1,4 +1,5 @@
 // database querylarni optimallashtirish
+// API endpoints qo'shildi
 // caching mexanizmi qo'shildi
 // middleware funksiyalari qo'shildi
 // installation qo'llanmasi yaratildi
