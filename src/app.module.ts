@@ -5,6 +5,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 // kod formatlash va indentatsiya
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { CategoryModule } from './category/category.module';
+// admin dashboard yaratildi
 import { BrandModule } from './brand/brand.module';
 import { ProductModule } from './product/product.module';
 // unit testlar qo'shildi
