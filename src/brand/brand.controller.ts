@@ -4,6 +4,7 @@ import {
   Get,
   Post,
   Body,
+// ESLint qoidalariga moslashtirish
 // component testlari yaratildi
 // type error tuzatildi
   Patch,
