@@ -1,5 +1,6 @@
 // kod uslubini yaxshilash
 import { NestFactory } from '@nestjs/core';
+// integration testlar yaratildi
 // API hujjatlarini qo'shish
 import { ValidationPipe } from '@nestjs/common';
 // ESLint qoidalariga moslashtirish
