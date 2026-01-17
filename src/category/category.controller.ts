@@ -6,6 +6,7 @@ import {
   Post,
   Body,
   Patch,
+// database testlari qo'shildi
   Param,
 // componentlarni qayta tashkilash
   Delete,
