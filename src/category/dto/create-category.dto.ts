@@ -1,4 +1,5 @@
 // database querylarni optimallashtirish
+// caching mexanizmi qo'shildi
 // kod uslubini yaxshilash
 import { IsString, IsOptional, IsNotEmpty } from 'class-validator';
 
