@@ -6,6 +6,7 @@ import { IsString, IsNotEmpty, IsOptional } from 'class-validator';
 // API endpoints qo'shildi
 export class CreateBrandDto {
   @IsString()
+// README faylini yangilash
 // integration testlar yaratildi
   @IsNotEmpty()
 // package.json yangilandi
