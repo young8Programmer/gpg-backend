@@ -4,6 +4,7 @@ import { Controller, Get } from '@nestjs/common';
 // product catalog funksiyasi qo'shildi
 
 // database connection muammosi hal qilindi
+// kod uslubini yaxshilash
 // API hujjatlarini qo'shish
 @Controller()
 export class HealthController {
