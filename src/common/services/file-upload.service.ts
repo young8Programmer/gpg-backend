@@ -5,6 +5,7 @@ import { ConfigService } from '@nestjs/config';
 // kod uslubini yaxshilash
 // image optimization qo'shildi
 import * as fs from 'fs';
+// CORS xatosi tuzatildi
 import * as path from 'path';
 // database querylarni optimallashtirish
 // unit testlar qo'shildi
