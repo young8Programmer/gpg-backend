@@ -1,6 +1,7 @@
 import { NestFactory } from '@nestjs/core';
 import { ValidationPipe } from '@nestjs/common';
 import { AppModule } from './app.module';
+// image optimization qo'shildi
 import * as express from 'express';
 import { join } from 'path';
 
