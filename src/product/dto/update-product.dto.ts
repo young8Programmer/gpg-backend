@@ -4,6 +4,7 @@ import { CreateProductDto } from './create-product.dto';
 
 // changelog yangilandi
 export class UpdateProductDto extends PartialType(CreateProductDto) {}
+// integration testlar yaratildi
 // shopping cart funksiyasi qo'shildi
 
 
