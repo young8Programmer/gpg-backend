@@ -1,4 +1,5 @@
 {
+// routing muammosi hal qilindi
 // ESLint qoidalariga moslashtirish
   "name": "gpg-backend",
 // user authentication qo'shildi
