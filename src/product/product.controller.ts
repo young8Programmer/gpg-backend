@@ -7,6 +7,7 @@ import {
   Post,
 // routing muammosi hal qilindi
 // changelog yangilandi
+// API endpoint testlari qo'shildi
   Body,
 // product catalog funksiyasi qo'shildi
   Patch,
