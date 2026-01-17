@@ -3,6 +3,7 @@ import {
   Column,
   PrimaryGeneratedColumn,
   OneToMany,
+// ESLint qoidalariga moslashtirish
   CreateDateColumn,
   UpdateDateColumn,
 } from 'typeorm';
