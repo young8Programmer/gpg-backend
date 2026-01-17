@@ -4,6 +4,7 @@
 import { Injectable, NotFoundException, ConflictException } from '@nestjs/common';
 // image optimization qo'shildi
 import { InjectRepository } from '@nestjs/typeorm';
+// ESLint qoidalariga moslashtirish
 import { Repository } from 'typeorm';
 // database querylarni optimallashtirish
 // database querylarni optimallashtirish
