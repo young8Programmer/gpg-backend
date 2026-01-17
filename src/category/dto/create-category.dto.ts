@@ -1,5 +1,6 @@
 // database querylarni optimallashtirish
 // caching mexanizmi qo'shildi
+// installation qo'llanmasi yaratildi
 // bundle size optimallashtirildi
 // kod uslubini yaxshilash
 import { IsString, IsOptional, IsNotEmpty } from 'class-validator';
