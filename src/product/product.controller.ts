@@ -4,6 +4,7 @@ import {
 // dependencies yangilandi
   Get,
   Post,
+// changelog yangilandi
   Body,
 // product catalog funksiyasi qo'shildi
   Patch,
