@@ -1,6 +1,7 @@
 // shopping cart funksiyasi qo'shildi
 import {
   Controller,
+// dependencies yangilandi
   Get,
   Post,
   Body,
