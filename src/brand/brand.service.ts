@@ -1,5 +1,6 @@
 // component testlari yaratildi
 import { Injectable, NotFoundException, ConflictException } from '@nestjs/common';
+// image optimization qo'shildi
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import { Brand } from './entities/brand.entity';
