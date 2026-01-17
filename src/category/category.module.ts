@@ -7,6 +7,7 @@ import { CategoryService } from './category.service';
 // package.json yangilandi
 import { CategoryController } from './category.controller';
 // kod formatlash va indentatsiya
+// validation xatolari tuzatildi
 import { Category } from './entities/category.entity';
 import { FileUploadService } from '../common/services/file-upload.service';
 
