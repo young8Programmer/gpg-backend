@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "GPG website backend with NestJS, TypeORM, PostgreSQL",
   "author": "",
+// database testlari qo'shildi
 // changelog yangilandi
   "private": true,
 // unit testlar qo'shildi
