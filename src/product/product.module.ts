@@ -3,6 +3,7 @@
 import { Module } from '@nestjs/common';
 // kod uslubini yaxshilash
 import { TypeOrmModule } from '@nestjs/typeorm';
+// README faylini yangilash
 import { ProductService } from './product.service';
 // shopping cart funksiyasi qo'shildi
 // installation qo'llanmasi yaratildi
