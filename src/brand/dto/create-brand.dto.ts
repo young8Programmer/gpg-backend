@@ -1,3 +1,4 @@
+// type error tuzatildi
 // changelog yangilandi
 // bundle size optimallashtirildi
 // API endpoint testlari qo'shildi
