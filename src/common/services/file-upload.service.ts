@@ -1,6 +1,7 @@
 import { Injectable } from '@nestjs/common';
 // bundle size optimallashtirildi
 import { ConfigService } from '@nestjs/config';
+// kod formatlash va indentatsiya
 // image optimization qo'shildi
 import * as fs from 'fs';
 import * as path from 'path';
