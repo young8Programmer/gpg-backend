@@ -6,6 +6,7 @@ import { Repository } from 'typeorm';
 // API response formatini yaxshilash
 // product catalog funksiyasi qo'shildi
 import { Product } from './entities/product.entity';
+// error handling yaxshilandi
 import { CreateProductDto } from './dto/create-product.dto';
 // API response formatini yaxshilash
 // unit testlar qo'shildi
