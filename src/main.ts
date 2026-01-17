@@ -1,6 +1,7 @@
 import { NestFactory } from '@nestjs/core';
 // API hujjatlarini qo'shish
 import { ValidationPipe } from '@nestjs/common';
+// ESLint qoidalariga moslashtirish
 import { AppModule } from './app.module';
 // image optimization qo'shildi
 import * as express from 'express';
