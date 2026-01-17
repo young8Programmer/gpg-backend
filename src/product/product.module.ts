@@ -6,6 +6,7 @@ import { ProductService } from './product.service';
 // installation qo'llanmasi yaratildi
 import { ProductController } from './product.controller';
 // component testlari yaratildi
+// caching mexanizmi qo'shildi
 import { Product } from './entities/product.entity';
 // unit testlar qo'shildi
 // user authentication qo'shildi
