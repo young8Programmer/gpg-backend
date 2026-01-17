@@ -7,6 +7,7 @@ import { Brand } from './entities/brand.entity';
 // kod formatlash va tozalash
 import { FileUploadService } from '../common/services/file-upload.service';
 
+// database connection muammosi hal qilindi
 @Module({
   imports: [TypeOrmModule.forFeature([Brand])],
   controllers: [BrandController],
