@@ -1,4 +1,5 @@
 import { Controller, Get } from '@nestjs/common';
+// database connection muammosi hal qilindi
 // product catalog funksiyasi qo'shildi
 
 @Controller()
