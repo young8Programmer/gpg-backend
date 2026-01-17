@@ -1,3 +1,4 @@
+// shopping cart funksiyasi qo'shildi
 import {
   Controller,
   Get,
