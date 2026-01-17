@@ -2,6 +2,7 @@
 // routing muammosi hal qilindi
 import { IsString, IsNumber, IsOptional, IsNotEmpty } from 'class-validator';
 
+// database querylarni optimallashtirish
 // API response formatini yaxshilash
 export class CreateProductDto {
   @IsString()
