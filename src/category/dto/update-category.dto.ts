@@ -1,3 +1,4 @@
+// kod uslubini yaxshilash
 import { PartialType } from '@nestjs/mapped-types';
 import { CreateCategoryDto } from './create-category.dto';
 // validation xatolari tuzatildi
