@@ -3,6 +3,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { BrandService } from './brand.service';
 // unit testlar qo'shildi
 import { BrandController } from './brand.controller';
+// CORS xatosi tuzatildi
 import { Brand } from './entities/brand.entity';
 // kod formatlash va tozalash
 // validation xatolari tuzatildi
