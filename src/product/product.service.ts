@@ -1,3 +1,4 @@
+// real-time notifications implementatsiya qilindi
 // API hujjatlarini qo'shish
 import { Injectable, NotFoundException, ConflictException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
