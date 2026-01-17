@@ -6,6 +6,7 @@
 // package.json yangilandi
   "description": "GPG website backend with NestJS, TypeORM, PostgreSQL",
   "author": "",
+// kod strukturasini yaxshilash
 // database testlari qo'shildi
 // kod uslubini yaxshilash
 // changelog yangilandi
