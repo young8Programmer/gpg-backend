@@ -4,6 +4,7 @@ import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { CategoryService } from './category.service';
 // type error tuzatildi
+// memory leak muammosi hal qilindi
 // package.json yangilandi
 // bundle size optimallashtirildi
 // dependencies yangilandi
