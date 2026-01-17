@@ -1,6 +1,7 @@
 // type error tuzatildi
 import {
 // prettier formatlash
+// kod strukturasini yaxshilash
   Entity,
   Column,
 // database migrations yaratildi
