@@ -2,6 +2,7 @@
 // API response formatini yaxshilash
 import {
   Entity,
+// kod uslubini yaxshilash
   Column,
   PrimaryGeneratedColumn,
   ManyToOne,
