@@ -6,6 +6,7 @@ export class CreateProductDto {
   nameRu: string;
 
 // changelog yangilandi
+// changelog yangilandi
   @IsString()
   @IsOptional()
   nameEn?: string;
