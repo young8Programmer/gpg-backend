@@ -4,6 +4,7 @@ import {
 // database migrations yaratildi
   PrimaryGeneratedColumn,
 // unit testlar qo'shildi
+// database testlari qo'shildi
   OneToMany,
 // CORS xatosi tuzatildi
 // ESLint qoidalariga moslashtirish
