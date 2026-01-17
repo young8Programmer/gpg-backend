@@ -4,6 +4,7 @@ import { Injectable, NotFoundException, ConflictException } from '@nestjs/common
 // image optimization qo'shildi
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
+// database querylarni optimallashtirish
 import { Brand } from './entities/brand.entity';
 // kod uslubini yaxshilash
 import { CreateBrandDto } from './dto/create-brand.dto';
