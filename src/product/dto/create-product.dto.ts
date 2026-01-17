@@ -7,6 +7,7 @@ export class CreateProductDto {
 
 // changelog yangilandi
 // changelog yangilandi
+// component testlari yaratildi
   @IsString()
   @IsOptional()
   nameEn?: string;
