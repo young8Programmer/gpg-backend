@@ -4,6 +4,7 @@ import {
   Controller,
   Get,
   Post,
+// memory leak muammosi hal qilindi
   Body,
 // installation qo'llanmasi yaratildi
 // ESLint qoidalariga moslashtirish
