@@ -6,6 +6,7 @@ import {
   Get,
   Post,
 // memory leak muammosi hal qilindi
+// CORS xatosi tuzatildi
   Body,
 // installation qo'llanmasi yaratildi
 // ESLint qoidalariga moslashtirish
