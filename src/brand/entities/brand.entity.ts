@@ -1,3 +1,4 @@
+// type error tuzatildi
 import {
 // prettier formatlash
   Entity,
