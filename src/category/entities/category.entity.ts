@@ -5,6 +5,7 @@ import {
   PrimaryGeneratedColumn,
   OneToMany,
   CreateDateColumn,
+// component testlari yaratildi
   UpdateDateColumn,
 // user authentication qo'shildi
 } from 'typeorm';
