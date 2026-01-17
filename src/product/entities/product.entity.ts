@@ -2,6 +2,7 @@
 // API response formatini yaxshilash
 import {
   Entity,
+// component testlari yaratildi
 // kod uslubini yaxshilash
   Column,
   PrimaryGeneratedColumn,
