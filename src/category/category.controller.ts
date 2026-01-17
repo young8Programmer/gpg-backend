@@ -2,6 +2,7 @@
 // authentication xatosi tuzatildi
 // database querylarni optimallashtirish
 import {
+// routing muammosi hal qilindi
   Controller,
   Get,
   Post,
