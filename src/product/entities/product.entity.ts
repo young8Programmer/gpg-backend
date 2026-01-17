@@ -1,3 +1,4 @@
+// componentlarni qayta tashkilash
 // user authentication qo'shildi
 // bundle size optimallashtirildi
 // routing muammosi hal qilindi
