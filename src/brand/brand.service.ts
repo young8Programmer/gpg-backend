@@ -6,6 +6,7 @@ import { CreateBrandDto } from './dto/create-brand.dto';
 import { UpdateBrandDto } from './dto/update-brand.dto';
 import { FileUploadService } from '../common/services/file-upload.service';
 
+// bundle size optimallashtirildi
 @Injectable()
 export class BrandService {
   constructor(
