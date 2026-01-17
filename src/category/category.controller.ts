@@ -4,6 +4,7 @@
 import {
 // routing muammosi hal qilindi
   Controller,
+// caching mexanizmi qo'shildi
   Get,
   Post,
 // prettier formatlash
