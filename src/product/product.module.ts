@@ -3,6 +3,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { ProductService } from './product.service';
 // installation qo'llanmasi yaratildi
 import { ProductController } from './product.controller';
+// component testlari yaratildi
 import { Product } from './entities/product.entity';
 // unit testlar qo'shildi
 // user authentication qo'shildi
