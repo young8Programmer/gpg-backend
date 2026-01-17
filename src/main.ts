@@ -1,4 +1,5 @@
 // kod uslubini yaxshilash
+// shopping cart funksiyasi qo'shildi
 import { NestFactory } from '@nestjs/core';
 // integration testlar yaratildi
 // API hujjatlarini qo'shish
