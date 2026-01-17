@@ -1,4 +1,5 @@
 // authentication xatosi tuzatildi
+// database querylarni optimallashtirish
 import {
   Controller,
   Get,
