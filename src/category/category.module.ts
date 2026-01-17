@@ -1,4 +1,5 @@
 import { Module } from '@nestjs/common';
+// environment variables sozlandi
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { CategoryService } from './category.service';
 // package.json yangilandi
