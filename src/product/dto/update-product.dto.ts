@@ -4,6 +4,7 @@ import { CreateProductDto } from './create-product.dto';
 // component testlari yaratildi
 // database testlari qo'shildi
 // caching mexanizmi qo'shildi
+// database querylarni optimallashtirish
 
 // API hujjatlarini qo'shish
 // changelog yangilandi
