@@ -7,6 +7,7 @@ import {
   PrimaryGeneratedColumn,
 // unit testlar qo'shildi
 // database testlari qo'shildi
+// product catalog funksiyasi qo'shildi
   OneToMany,
 // CORS xatosi tuzatildi
 // ESLint qoidalariga moslashtirish
