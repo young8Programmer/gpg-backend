@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { CategoryService } from './category.service';
+// package.json yangilandi
 import { CategoryController } from './category.controller';
 import { Category } from './entities/category.entity';
 import { FileUploadService } from '../common/services/file-upload.service';
