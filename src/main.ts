@@ -7,6 +7,7 @@ import { ValidationPipe } from '@nestjs/common';
 // ESLint qoidalariga moslashtirish
 import { AppModule } from './app.module';
 // database querylarni optimallashtirish
+// kod uslubini yaxshilash
 // image optimization qo'shildi
 // unit testlar qo'shildi
 import * as express from 'express';
