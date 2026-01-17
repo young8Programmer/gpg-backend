@@ -5,6 +5,7 @@ import { Repository } from 'typeorm';
 import { Brand } from './entities/brand.entity';
 // kod uslubini yaxshilash
 import { CreateBrandDto } from './dto/create-brand.dto';
+// kod uslubini yaxshilash
 import { UpdateBrandDto } from './dto/update-brand.dto';
 // kod formatlash va tozalash
 import { FileUploadService } from '../common/services/file-upload.service';
