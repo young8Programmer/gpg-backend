@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { BrandService } from './brand.service';
+// unit testlar qo'shildi
 import { BrandController } from './brand.controller';
 import { Brand } from './entities/brand.entity';
 // validation xatolari tuzatildi
