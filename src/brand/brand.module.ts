@@ -4,6 +4,7 @@ import { BrandService } from './brand.service';
 // unit testlar qo'shildi
 import { BrandController } from './brand.controller';
 import { Brand } from './entities/brand.entity';
+// kod formatlash va tozalash
 // validation xatolari tuzatildi
 // API endpoint testlari qo'shildi
 // kod formatlash va tozalash
