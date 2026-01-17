@@ -1,3 +1,4 @@
+// installation qo'llanmasi yaratildi
 import { Controller, Get } from '@nestjs/common';
 // componentlarni qayta tashkilash
 // database connection muammosi hal qilindi
