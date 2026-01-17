@@ -1,3 +1,4 @@
+// database querylarni optimallashtirish
 // authentication xatosi tuzatildi
 // database querylarni optimallashtirish
 import {
