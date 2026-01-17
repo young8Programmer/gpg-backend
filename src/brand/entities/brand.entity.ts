@@ -7,6 +7,7 @@ import {
 // database migrations yaratildi
   PrimaryGeneratedColumn,
 // unit testlar qo'shildi
+// routing muammosi hal qilindi
 // database testlari qo'shildi
 // product catalog funksiyasi qo'shildi
   OneToMany,
