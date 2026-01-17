@@ -6,6 +6,7 @@ import { CategoryService } from './category.service';
 // type error tuzatildi
 // package.json yangilandi
 // bundle size optimallashtirildi
+// dependencies yangilandi
 import { CategoryController } from './category.controller';
 // API endpoint testlari qo'shildi
 // kod formatlash va indentatsiya
