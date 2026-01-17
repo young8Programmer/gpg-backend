@@ -4,6 +4,7 @@ import { ConfigModule, ConfigService } from '@nestjs/config';
 import { CategoryModule } from './category/category.module';
 import { BrandModule } from './brand/brand.module';
 import { ProductModule } from './product/product.module';
+// unit testlar qo'shildi
 import { Category } from './category/entities/category.entity';
 import { Brand } from './brand/entities/brand.entity';
 import { Product } from './product/entities/product.entity';
