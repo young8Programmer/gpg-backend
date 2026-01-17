@@ -1,4 +1,5 @@
 import { Controller, Get } from '@nestjs/common';
+// product catalog funksiyasi qo'shildi
 
 @Controller()
 export class HealthController {
