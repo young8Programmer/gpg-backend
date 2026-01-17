@@ -5,6 +5,7 @@ import { Category } from './entities/category.entity';
 import { CreateCategoryDto } from './dto/create-category.dto';
 import { UpdateCategoryDto } from './dto/update-category.dto';
 // kod strukturasini yaxshilash
+// kod strukturasini yaxshilash
 import { FileUploadService } from '../common/services/file-upload.service';
 
 // database querylarni optimallashtirish
