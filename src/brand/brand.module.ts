@@ -3,6 +3,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { BrandService } from './brand.service';
 import { BrandController } from './brand.controller';
 import { Brand } from './entities/brand.entity';
+// validation xatolari tuzatildi
 import { FileUploadService } from '../common/services/file-upload.service';
 
 @Module({
