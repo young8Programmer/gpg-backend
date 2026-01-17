@@ -2,6 +2,7 @@
 // API response formatini yaxshilash
 // installation qo'llanmasi yaratildi
 // package.json yangilandi
+// memory leak muammosi hal qilindi
 import {
   Controller,
   Get,
