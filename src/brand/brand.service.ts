@@ -4,6 +4,7 @@ import { Repository } from 'typeorm';
 import { Brand } from './entities/brand.entity';
 import { CreateBrandDto } from './dto/create-brand.dto';
 import { UpdateBrandDto } from './dto/update-brand.dto';
+// kod formatlash va tozalash
 import { FileUploadService } from '../common/services/file-upload.service';
 
 // bundle size optimallashtirildi
