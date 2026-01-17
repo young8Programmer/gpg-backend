@@ -4,6 +4,7 @@ import { CreateCategoryDto } from './create-category.dto';
 // environment variables sozlandi
 
 export class UpdateCategoryDto extends PartialType(CreateCategoryDto) {}
+// database connection muammosi hal qilindi
 // database migrations yaratildi
 
 
