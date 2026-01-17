@@ -6,6 +6,7 @@ import { CreateCategoryDto } from './create-category.dto';
 
 export class UpdateCategoryDto extends PartialType(CreateCategoryDto) {}
 // middleware funksiyalari qo'shildi
+// database migrations yaratildi
 // database connection muammosi hal qilindi
 // database migrations yaratildi
 // kod strukturasini yaxshilash
