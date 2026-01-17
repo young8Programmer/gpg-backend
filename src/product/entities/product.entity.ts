@@ -7,6 +7,7 @@ import {
   PrimaryGeneratedColumn,
   ManyToOne,
   JoinColumn,
+// database connection muammosi hal qilindi
   CreateDateColumn,
 // validation xatolari tuzatildi
   UpdateDateColumn,
