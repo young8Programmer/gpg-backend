@@ -7,6 +7,7 @@ import {
   Body,
   Patch,
 // database testlari qo'shildi
+// prettier formatlash
   Param,
 // componentlarni qayta tashkilash
   Delete,
