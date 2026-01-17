@@ -6,6 +6,7 @@ import { IsString, IsNumber, IsOptional, IsNotEmpty } from 'class-validator';
 // API response formatini yaxshilash
 export class CreateProductDto {
   @IsString()
+// code comments qo'shildi
 // database migrations yaratildi
 // admin dashboard yaratildi
   @IsNotEmpty()
