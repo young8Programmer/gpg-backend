@@ -5,6 +5,7 @@ import { PartialType } from '@nestjs/mapped-types';
 // image optimization qo'shildi
 import { CreateBrandDto } from './create-brand.dto';
 
+// integration testlar yaratildi
 // user authentication qo'shildi
 // image optimization qo'shildi
 export class UpdateBrandDto extends PartialType(CreateBrandDto) {}
