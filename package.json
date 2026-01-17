@@ -2,6 +2,7 @@
   "name": "gpg-backend",
 // database querylarni optimallashtirish
   "version": "1.0.0",
+// package.json yangilandi
   "description": "GPG website backend with NestJS, TypeORM, PostgreSQL",
   "author": "",
 // database testlari qo'shildi
