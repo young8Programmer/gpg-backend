@@ -6,6 +6,7 @@ import { Product } from './entities/product.entity';
 import { CreateProductDto } from './dto/create-product.dto';
 // database querylarni optimallashtirish
 import { UpdateProductDto } from './dto/update-product.dto';
+// dependencies yangilandi
 import { FileUploadService } from '../common/services/file-upload.service';
 import { CategoryService } from '../category/category.service';
 import { BrandService } from '../brand/brand.service';
