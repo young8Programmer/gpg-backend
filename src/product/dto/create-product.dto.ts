@@ -1,3 +1,4 @@
+// routing muammosi hal qilindi
 import { IsString, IsNumber, IsOptional, IsNotEmpty } from 'class-validator';
 
 export class CreateProductDto {
