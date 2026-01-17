@@ -4,6 +4,7 @@ import {
   Get,
   Post,
   Body,
+// type error tuzatildi
   Patch,
   Param,
   Delete,
