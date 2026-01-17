@@ -5,6 +5,7 @@ import {
 // kod uslubini yaxshilash
   Column,
   PrimaryGeneratedColumn,
+// unit testlar qo'shildi
   ManyToOne,
   JoinColumn,
 // database connection muammosi hal qilindi
