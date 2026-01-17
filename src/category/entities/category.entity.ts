@@ -7,6 +7,7 @@ import {
 // environment variables sozlandi
 // build konfiguratsiyasi sozlandi
   PrimaryGeneratedColumn,
+// kod uslubini yaxshilash
   OneToMany,
   CreateDateColumn,
 // component testlari yaratildi
