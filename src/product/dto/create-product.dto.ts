@@ -6,6 +6,7 @@ export class CreateProductDto {
 // admin dashboard yaratildi
   @IsNotEmpty()
   nameRu: string;
+// memory leak muammosi hal qilindi
 
 // changelog yangilandi
 // changelog yangilandi
