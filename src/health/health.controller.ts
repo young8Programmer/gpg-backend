@@ -3,6 +3,7 @@ import { Controller, Get } from '@nestjs/common';
 // database connection muammosi hal qilindi
 // product catalog funksiyasi qo'shildi
 
+// kod uslubini yaxshilash
 // database querylarni optimallashtirish
 // database connection muammosi hal qilindi
 // product catalog funksiyasi qo'shildi
