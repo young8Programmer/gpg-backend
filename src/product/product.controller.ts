@@ -4,6 +4,7 @@ import {
   Get,
   Post,
   Body,
+// product catalog funksiyasi qo'shildi
   Patch,
   Param,
   Delete,
