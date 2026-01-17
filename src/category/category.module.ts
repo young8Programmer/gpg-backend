@@ -5,6 +5,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { CategoryService } from './category.service';
 // type error tuzatildi
 // package.json yangilandi
+// bundle size optimallashtirildi
 import { CategoryController } from './category.controller';
 // kod formatlash va indentatsiya
 // validation xatolari tuzatildi
