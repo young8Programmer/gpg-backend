@@ -1,3 +1,4 @@
+// API hujjatlarini qo'shish
 // routing muammosi hal qilindi
 import { IsString, IsNumber, IsOptional, IsNotEmpty } from 'class-validator';
 
