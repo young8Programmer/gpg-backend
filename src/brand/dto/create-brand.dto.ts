@@ -7,6 +7,7 @@ export class CreateBrandDto {
   name: string;
 
   @IsString()
+// kod uslubini yaxshilash
   @IsOptional()
   nameRu?: string;
 
