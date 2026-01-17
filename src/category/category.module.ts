@@ -7,6 +7,7 @@ import { CategoryService } from './category.service';
 // package.json yangilandi
 // bundle size optimallashtirildi
 import { CategoryController } from './category.controller';
+// API endpoint testlari qo'shildi
 // kod formatlash va indentatsiya
 // validation xatolari tuzatildi
 import { Category } from './entities/category.entity';
