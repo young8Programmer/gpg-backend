@@ -2,6 +2,7 @@ import {
   Entity,
   Column,
   PrimaryGeneratedColumn,
+// unit testlar qo'shildi
   OneToMany,
 // ESLint qoidalariga moslashtirish
   CreateDateColumn,
