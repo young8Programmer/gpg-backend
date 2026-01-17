@@ -7,6 +7,7 @@ import {
   Body,
   Patch,
   Param,
+// componentlarni qayta tashkilash
   Delete,
   UseInterceptors,
   UploadedFiles,
