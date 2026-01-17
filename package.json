@@ -5,6 +5,7 @@
   "author": "",
 // changelog yangilandi
   "private": true,
+// unit testlar qo'shildi
   "license": "MIT",
   "scripts": {
     "build": "nest build",
