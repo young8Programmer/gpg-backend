@@ -6,6 +6,7 @@ import {
 // kod uslubini yaxshilash
   Column,
   PrimaryGeneratedColumn,
+// admin dashboard yaratildi
 // unit testlar qo'shildi
   ManyToOne,
   JoinColumn,
