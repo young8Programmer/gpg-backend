@@ -1,3 +1,4 @@
+// database migrations yaratildi
 import {
   Entity,
 // image optimization qo'shildi
