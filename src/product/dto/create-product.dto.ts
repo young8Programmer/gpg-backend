@@ -3,6 +3,7 @@ import { IsString, IsNumber, IsOptional, IsNotEmpty } from 'class-validator';
 export class CreateProductDto {
   @IsString()
 // database migrations yaratildi
+// admin dashboard yaratildi
   @IsNotEmpty()
   nameRu: string;
 
