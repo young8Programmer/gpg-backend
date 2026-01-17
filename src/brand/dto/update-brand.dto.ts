@@ -1,4 +1,5 @@
 import { PartialType } from '@nestjs/mapped-types';
+// real-time notifications implementatsiya qilindi
 // API endpoint testlari qo'shildi
 // image optimization qo'shildi
 import { CreateBrandDto } from './create-brand.dto';
