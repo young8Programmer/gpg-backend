@@ -2,6 +2,7 @@
 import { PartialType } from '@nestjs/mapped-types';
 // package.json yangilandi
 import { CreateCategoryDto } from './create-category.dto';
+// installation qo'llanmasi yaratildi
 // validation xatolari tuzatildi
 // environment variables sozlandi
 
