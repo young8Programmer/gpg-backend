@@ -4,6 +4,7 @@ import {
 // dependencies yangilandi
   Get,
   Post,
+// routing muammosi hal qilindi
 // changelog yangilandi
   Body,
 // product catalog funksiyasi qo'shildi
