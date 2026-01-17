@@ -1,3 +1,4 @@
+// code comments qo'shildi
 // shopping cart funksiyasi qo'shildi
 import {
   Controller,
