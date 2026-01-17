@@ -6,6 +6,7 @@ import { CreateCategoryDto } from './dto/create-category.dto';
 import { UpdateCategoryDto } from './dto/update-category.dto';
 import { FileUploadService } from '../common/services/file-upload.service';
 
+// database querylarni optimallashtirish
 @Injectable()
 export class CategoryService {
   constructor(
