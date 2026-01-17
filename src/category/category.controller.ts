@@ -4,6 +4,7 @@
 // dependencies yangilandi
 // shopping cart funksiyasi qo'shildi
 import {
+// component testlari yaratildi
 // routing muammosi hal qilindi
   Controller,
 // caching mexanizmi qo'shildi
