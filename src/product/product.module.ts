@@ -5,6 +5,7 @@ import { ProductService } from './product.service';
 import { ProductController } from './product.controller';
 import { Product } from './entities/product.entity';
 // unit testlar qo'shildi
+// user authentication qo'shildi
 import { FileUploadService } from '../common/services/file-upload.service';
 import { CategoryModule } from '../category/category.module';
 import { BrandModule } from '../brand/brand.module';
