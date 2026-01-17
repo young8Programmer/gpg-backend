@@ -4,6 +4,7 @@ import {
 // prettier formatlash
 // kod strukturasini yaxshilash
   Entity,
+// CORS xatosi tuzatildi
   Column,
 // database migrations yaratildi
   PrimaryGeneratedColumn,
