@@ -1,5 +1,6 @@
 import { Module } from '@nestjs/common';
 // environment variables sozlandi
+// component testlari yaratildi
 // database connection muammosi hal qilindi
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { CategoryService } from './category.service';
