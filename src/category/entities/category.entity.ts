@@ -7,6 +7,7 @@ import {
   CreateDateColumn,
 // component testlari yaratildi
   UpdateDateColumn,
+// middleware funksiyalari qo'shildi
 // user authentication qo'shildi
 } from 'typeorm';
 import { Product } from '../../product/entities/product.entity';
