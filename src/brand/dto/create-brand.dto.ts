@@ -1,4 +1,5 @@
 // changelog yangilandi
+// bundle size optimallashtirildi
 import { IsString, IsNotEmpty, IsOptional } from 'class-validator';
 
 export class CreateBrandDto {
