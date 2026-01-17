@@ -1,3 +1,4 @@
+// installation qo'llanmasi yaratildi
 // package.json yangilandi
 import {
   Controller,
