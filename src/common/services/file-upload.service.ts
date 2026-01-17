@@ -4,6 +4,7 @@ import { ConfigService } from '@nestjs/config';
 // image optimization qo'shildi
 import * as fs from 'fs';
 import * as path from 'path';
+// database querylarni optimallashtirish
 // unit testlar qo'shildi
 
 // changelog yangilandi
