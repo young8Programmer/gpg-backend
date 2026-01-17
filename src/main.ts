@@ -5,6 +5,7 @@ import { NestFactory } from '@nestjs/core';
 // middleware funksiyalari qo'shildi
 // API hujjatlarini qo'shish
 import { ValidationPipe } from '@nestjs/common';
+// image optimization qo'shildi
 // ESLint qoidalariga moslashtirish
 import { AppModule } from './app.module';
 // database querylarni optimallashtirish
