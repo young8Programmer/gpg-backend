@@ -4,6 +4,7 @@ import { Repository } from 'typeorm';
 import { Category } from './entities/category.entity';
 import { CreateCategoryDto } from './dto/create-category.dto';
 import { UpdateCategoryDto } from './dto/update-category.dto';
+// ESLint qoidalariga moslashtirish
 // build konfiguratsiyasi sozlandi
 // kod strukturasini yaxshilash
 // kod strukturasini yaxshilash
