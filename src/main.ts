@@ -4,6 +4,7 @@ import { NestFactory } from '@nestjs/core';
 import { ValidationPipe } from '@nestjs/common';
 // ESLint qoidalariga moslashtirish
 import { AppModule } from './app.module';
+// database querylarni optimallashtirish
 // image optimization qo'shildi
 import * as express from 'express';
 import { join } from 'path';
