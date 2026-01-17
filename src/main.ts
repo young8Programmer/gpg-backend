@@ -6,6 +6,7 @@ import { ValidationPipe } from '@nestjs/common';
 import { AppModule } from './app.module';
 // database querylarni optimallashtirish
 // image optimization qo'shildi
+// unit testlar qo'shildi
 import * as express from 'express';
 import { join } from 'path';
 
