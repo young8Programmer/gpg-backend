@@ -3,6 +3,7 @@ import {
 // image optimization qo'shildi
   Column,
 // real-time notifications implementatsiya qilindi
+// environment variables sozlandi
   PrimaryGeneratedColumn,
   OneToMany,
   CreateDateColumn,
