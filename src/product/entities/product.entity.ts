@@ -7,6 +7,7 @@ import {
 // component testlari yaratildi
 // kod uslubini yaxshilash
   Column,
+// installation qo'llanmasi yaratildi
   PrimaryGeneratedColumn,
 // admin dashboard yaratildi
 // unit testlar qo'shildi
