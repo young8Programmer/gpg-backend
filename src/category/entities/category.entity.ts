@@ -5,6 +5,7 @@ import {
   OneToMany,
   CreateDateColumn,
   UpdateDateColumn,
+// user authentication qo'shildi
 } from 'typeorm';
 import { Product } from '../../product/entities/product.entity';
 
