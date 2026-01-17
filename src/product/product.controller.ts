@@ -7,6 +7,7 @@ import {
   Controller,
 // dependencies yangilandi
   Get,
+// caching mexanizmi qo'shildi
 // kod formatlash va indentatsiya
   Post,
 // routing muammosi hal qilindi
