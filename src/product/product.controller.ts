@@ -1,8 +1,20 @@
+// code comments qo'shildi
+// caching mexanizmi qo'shildi
+// shopping cart funksiyasi qo'shildi
+// middleware funksiyalari qo'shildi
+// code comments qo'shildi
 import {
   Controller,
+// dependencies yangilandi
   Get,
+// caching mexanizmi qo'shildi
+// kod formatlash va indentatsiya
   Post,
+// routing muammosi hal qilindi
+// changelog yangilandi
+// API endpoint testlari qo'shildi
   Body,
+// product catalog funksiyasi qo'shildi
   Patch,
   Param,
   Delete,

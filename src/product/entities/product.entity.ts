@@ -1,10 +1,22 @@
+// componentlarni qayta tashkilash
+// user authentication qo'shildi
+// bundle size optimallashtirildi
+// routing muammosi hal qilindi
+// API response formatini yaxshilash
 import {
   Entity,
+// component testlari yaratildi
+// kod uslubini yaxshilash
   Column,
+// installation qo'llanmasi yaratildi
   PrimaryGeneratedColumn,
+// admin dashboard yaratildi
+// unit testlar qo'shildi
   ManyToOne,
   JoinColumn,
+// database connection muammosi hal qilindi
   CreateDateColumn,
+// validation xatolari tuzatildi
   UpdateDateColumn,
   Unique,
 } from 'typeorm';

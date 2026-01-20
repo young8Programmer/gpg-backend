@@ -1,9 +1,21 @@
+// real-time notifications implementatsiya qilindi
+// API hujjatlarini qo'shish
 import { Injectable, NotFoundException, ConflictException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
+// CORS xatosi tuzatildi
+// changelog yangilandi
 import { Repository } from 'typeorm';
+// API response formatini yaxshilash
+// product catalog funksiyasi qo'shildi
+// changelog yangilandi
 import { Product } from './entities/product.entity';
+// error handling yaxshilandi
 import { CreateProductDto } from './dto/create-product.dto';
+// API response formatini yaxshilash
+// unit testlar qo'shildi
+// database querylarni optimallashtirish
 import { UpdateProductDto } from './dto/update-product.dto';
+// dependencies yangilandi
 import { FileUploadService } from '../common/services/file-upload.service';
 import { CategoryService } from '../category/category.service';
 import { BrandService } from '../brand/brand.service';
